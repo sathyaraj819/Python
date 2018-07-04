@@ -1,0 +1,7 @@
+print("enter three numbers to find greatest")
+a=input()
+b=input()
+c=input()
+d=max(a,b,c)
+print("the greatest number is :")
+print(d) 
